@@ -1,7 +1,8 @@
 # KMeans Clustering in Java Implementation
 
-K-Means Algorithm
 K-Means is unsupervised learning algorithm and used in clustering.
+
+K-Means Algorithm -
 
 1. We are reading K-value (number of cluster ), MaxIteration and Distance metric to be used from users.
 2. Load training data set.
